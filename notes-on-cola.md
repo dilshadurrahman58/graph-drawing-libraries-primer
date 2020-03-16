@@ -395,6 +395,8 @@ There is an example named [Unix Family tree](https://ialab.it.monash.edu/webcola
 
 Also, the parser does not parse any arbitrary value. It does not work with HTML strings and ports in dot files. 
 
+All those facts mentioned above is also true for [this](https://github.com/dagrejs/dagre-d3/blob/master/demo/interactive-demo.html) interactive example. Here, it is parsing dot for javascript which is using [dagre.js](https://github.com/dagrejs/dagre/wiki). As, it is also using graphlib-dot.js library, we can only parse the very basic syntaxes of dot. 
+
 
 
 
