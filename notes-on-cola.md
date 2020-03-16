@@ -391,6 +391,7 @@ d3cola.on('tick', function() {
 
 
 ## Parsing Dot into Cola
+There is an example named **[Unix Family tree](https://ialab.it.monash.edu/webcola/examples/unix.html)** of parsing a dot file into Javascript and it uses the library **[cola.js](https://ialab.it.monash.edu/webcola/)**. It uses **[graphlib-dot.js](https://github.com/dagrejs/graphlib-dot)** library which is a dot parser and writer for graphlib.
 
 
 
